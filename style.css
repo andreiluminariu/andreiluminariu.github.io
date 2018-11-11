@@ -1,0 +1,160 @@
+body {
+	margin:0;
+	font-family: 'Niramit', sans-serif;
+}
+
+.navbar-brand {
+	padding-top: 5px;
+}
+
+.navbar {
+	background-color: 1995AD;
+}
+
+.col-md-4 {
+	background-color: A1D6E2;
+}
+
+.card {
+	background-color: FCFDFE;
+	border-radius: 2%;
+}
+
+.col-md-8 {
+	background-color: A1D6E2;
+}
+
+.gap {
+	margin-top: 20px;
+}
+
+img {
+	width: 40px;
+	border-radius: 0;
+}
+
+.profile {
+	width: 200px;
+	border-radius: 50%;
+}
+
+.name {
+	font-size: 30; 
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 900;
+	text-align: center;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+.summary {
+	font-size: 15;
+	font-family: 'Niramit', sans-serif;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.card-footer {
+	background-color: 1995AD; 
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border-radius: 2%;
+}
+
+.fas {
+	text-align: left;
+}
+
+.fab {
+	color: white;
+	text-align: center;
+	font-size: 30;
+}
+
+.skills {
+	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.info {
+	font-size: 17;
+	padding-top: 10px;
+	padding-left: 30px;
+	text-align: left;
+}
+
+.skillsone {
+	font-size: 25;
+	padding-top: 10px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.skillstwo {
+	font-size: 14;
+	text-align: left;
+	margin-left: 10px;
+}
+
+.worktitle {
+	font-size: 25;
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 20px; 
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+.nextandco {
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 20px; 
+}
+
+.cover {
+	width: 300px;
+	padding-top: 20px;
+	margin-left: 40px;
+}
+
+.coverlast {
+	width: 300px;
+	padding-top: 20px;
+	margin-left: 40px;
+	padding-bottom: 20px;
+}
+
+.poster {
+	width: 200px;
+	padding-top: 20px;
+	margin-left: 150px;
+}
+
+.fa-plane {
+	font-size: 40;
+	animation-duration: 6s;
+	color: white;
+}
+
+.interestslist {
+	padding-left: 40px;
+}
+
+.last {
+	padding-bottom: 10px;
+}
+
+.video {
+	align-content: center;
+	align-self: center;
+	align-items: center;
+	margin-bottom: 20px;
+}
